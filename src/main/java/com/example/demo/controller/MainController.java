@@ -72,7 +72,7 @@ public class MainController {
 		EmpModel list =empservice.getEmpById(id);
 		System.out.println(list);
 		System.out.println(id);
-		 return list;
+		 return list1;
 	    }
 			
 
